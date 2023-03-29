@@ -1,7 +1,9 @@
 # Hongyang v4.0
 T2T reference genome of *Actinidia chinensis* cv. ‘Hongyang’
 
-**Hongyang_v4.0.hap1.fasta.gz**: The Hongyang v4.0 genome assembly in FASTA format
+**Hongyang_v4.0_Chr1-15.hap1.fasta.gz**: The Hongyang v4.0 genome assembly, chromosome 1-15 in FASTA format
+
+**Hongyang_v4.0_Chr16-29.hap1.fasta.gz**: The Hongyang v4.0 genome assembly, chromosome 16-29 in FASTA format
 
 **Hongyang_v4.0.hap1.gff3.gz**: The Hongyang v4.0 gene annotation in gff3 format
 
